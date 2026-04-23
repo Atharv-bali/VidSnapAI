@@ -1,0 +1,16 @@
+file 'chat.png'
+duration 1
+file 'p1.png'
+duration 1
+file 'p2.png'
+duration 1
+file 'p3.png'
+duration 1
+file 'p5.png'
+duration 1
+file 'p4.png'
+duration 1
+file 'p6.png'
+duration 1
+file 'p7.png'
+duration 1
